@@ -32,7 +32,7 @@ The dataset used for the experiments is the [mnist dataset](https://docs.pytorch
 
 ![MNIST](fig/mnist.png)
 
-##### Training per 50 epochs
+#### Training per 50 epochs
 
 The ARI and NMI scores during the training:
 
@@ -48,4 +48,4 @@ Visualisation of the feature latent space
 
 ![TSNE](fig/TSE_50.png)
 
-##### Training per 100 epochs
+#### Training per 100 epochs
