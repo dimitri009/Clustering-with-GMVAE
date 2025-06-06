@@ -68,5 +68,3 @@ Image Reconstruction
 Image generation
 
 ![IMG_GEN](fig/img_ran_50.png)
-
-#### Training per 100 epochs
